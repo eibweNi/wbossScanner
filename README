@@ -1,0 +1,10 @@
+Requirements:
+    TesseractOCR found on this link 
+        https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.1.20230401.exe
+    If you are interested or want more information about what tesseractOCR is you can find more information about it in the following link
+        https://github.com/UB-Mannheim/tesseract/wiki
+    Unitscan positioned on the top left corner of your screen
+
+Why should you trust this?
+    I have made this program open source and the code itself can be found in this github repository: https://github.com/eibweNi/wbossScanner
+    If you don't trust the exe or are scared of the windows defender notification feel free to compile this code if you know how to.
